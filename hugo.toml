@@ -1,0 +1,36 @@
+baseURL = 'https://ericviseur.be/'
+languageCode = 'fr-be'
+title = 'Eric Viseur'
+theme = "hugo-resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "🐒🐲 Mons, Belgium"
+email = "contact@ericviseur.be"
+favicon = "/favicon.ico"
+firstName = "Eric"
+lastName = "Viseur"
+profileImage = "img/profile.webp"
+showQr = true
+showContact = true
+showBoards  = true
+showCertifications = false
+showSocializations = true
+sections = ["skills","experience","education"]
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/eric-viseur-78594954/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/sephiroth1395/"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

@@ -1,0 +1,46 @@
+[
+  {
+    "grouping":"Team Management",
+    "skills":[ "Skills Mapping & Development", "Knowledge Management" ]
+  },  
+  {
+      "grouping":"Systems Engineering & Architecture",
+      "skills":[ "Model-Based System Engineering", "Capella", "Classified Information handling", "Microservices", "RESTful APIs", "Linux Kernel", "IP Networks", "DNS", "Layered Network Security"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Bash", "Python", "git", "Linux", "restic"]
+  },
+  {
+    "grouping":"Monitoring & Observability",
+    "skills":[ "Nagios", "Iciniga", "Grafana", "InfluxDB", "Graylog"]
+  },  
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "OPNsense", "NGINX", "MySQL" ]
+  },
+  {
+      "grouping":"Cybersecurity solutions",
+      "skills":[
+        {"name":"CrowdSec"},
+        {"name":"Suricata"}
+      ]
+  },
+  {
+    "grouping":"Virtualisation & Containers",
+      "skills":[
+          {"name":"Proxmox"},
+          {"name":"VMware ESX"},
+          {"name":"KVM"},
+          {"name":"LXC"},
+          {"name":"Docker"}
+      ]
+  },
+  {
+    "grouping":"Others",
+      "skills":[
+          {"name":"Home Automation"},
+          {"name":"Self-Hosting"}
+      ]
+  }  
+]
