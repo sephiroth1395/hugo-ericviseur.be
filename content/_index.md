@@ -1,3 +1,13 @@
+---
+title: "Home"
+sitemap:
+  priority : 1.0
+
+outputs:
+- html
+- json
+---
+
 ### Cybersecurity Architect | Head of Security Discipline @ [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium) 🇧🇪
 
 _Leader of the Cybersecurity Engineering team in the Belgian Defense & Security entity of a major European industrial actor_
