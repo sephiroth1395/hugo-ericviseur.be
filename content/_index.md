@@ -22,4 +22,7 @@ _Leader of the Cybersecurity Engineering team in the Belgian Defense & Security 
 
 📈 **Having moved to Head of Discipline, my focus is now empowerment: making sure the team grows in size and skills in a positive, empathetic and intellectually challenging environment, reaching even higher heights than what my decade as a System Architect got me to.**
 
+### Technology blog
+📚 Every now and then, I publish content (mainly about cybersecurity and home automation) on [ev1z.be](https://ev1z.be/).
+
 This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume).
