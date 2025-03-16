@@ -2,19 +2,25 @@
     {
         "role":"Head of Security Discipline",
         "company":"Thales Belgium SA",
-        "summary":"Leading a diverse and talented cybersecurity engineers & architects to deliver security-centric developments and support the proper implementation of Secure By Design principles in all activities, from the initial architecture to the final decommision phases, including risk management, design reviews and penetration tests",
+        "summary":"Leader of a diverse and talented cybersecurity engineers & architects focused on delivering security-centric developments and supporting the proper implementation of Secure By Design principles in all activities, from the initial architecture to the final decommision phases, including risk management, design reviews and penetration tests.",
         "range":"March 2024 - Present"
     },
     {
         "role":"System Engineer",
         "company":"Thales Belgium SA",
-        "summary":"Performing various specification, design, integration, test bench definition & implementation, customer deployment & support activities on critical communication systems and cybersecurity solutions, in various technological and customer environments, including sensitive information handling",
+        "summary":"Execution, directly or as part of an integrated team, of various specification, design, integration, test bench definition & implementation, customer deployment & support activities on critical communication systems and cybersecurity solutions, in various technological and customer environments, including sensitive information handling.  Main achievements include emergency paging systems and IP encryption devices.",
         "range":"August 2014 - March 2024"
     },
     {
         "role":"External Collaborator",
-        "company":"Faculté Polytechnique de MONS | UMONS",
-        "summary":"Facilitating cooperation between the industrial and academic worlds through a range of initiatives including contribution to cybersecurity teachings, organisation of seminars and exploring collaboration opportunities on R&D projects",
+        "company":"Faculté Polytechnique de Mons | UMONS",
+        "summary":"Facilitation of cooperation between the industrial and academic worlds through a range of initiatives including contribution to cybersecurity teachings, organisation of seminars and exploring collaboration opportunities on R&D projects.",
         "range":"August 2017 - Present"
-    }
+    },
+    {
+        "role":"Volunteer Sysadmin | Students club president",
+        "company":"Cercle Magellan | Fédération des Etudiants de la FPMs",
+        "summary":"Contribution to the network routing infrastructure & user services of 200+ rooms students housing in close cooperation with the University IT department (IPS, virtualization cluster, web hosting, DVB-T multicast broadcasting, ...).  Planning, sponsors management & team coordination for a 200+ players LAN Party organised inside the University buildings.",
+        "range":"October 2007 - June 2013"
+    }    
 ]
